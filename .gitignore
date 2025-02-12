@@ -1,0 +1,26 @@
+client/node_modules
+server/node_modules
+client/dist/
+server/dist/
+client/.env
+server/.env
+client/.next/node_modules/
+client/build/
+server/dist/
+.env
+.DS_Store # macOS system file, good to ignore
+node_modules/
+client/.next/
+client/.env.local
+client/.env.example
+client/.prettierrc
+client/package-lock.json
+client/package.json
+client/public/
+server/.DS_Store
+server/node_modules/
+server/.env.local
+server/.env.example
+server/package-lock.json
+server/dist/
+.DS_Store
